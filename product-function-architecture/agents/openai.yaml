@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品功能架构图"
+  short_description: "将产品材料整理为清晰、可汇报的架构图。"
+  default_prompt: "使用 $product-function-architecture，将产品背景、业务场景和功能列表整理为清晰的产品功能架构图。"
