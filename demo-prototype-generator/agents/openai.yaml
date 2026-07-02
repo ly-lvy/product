@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demo 原型设计与生成"
+  short_description: "根据产品资料生成可演示的HTML或图片Demo原型"
+  default_prompt: "Use $demo-prototype-generator to design and generate a product demo prototype from this product requirement."
